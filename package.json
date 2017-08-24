@@ -1,0 +1,38 @@
+{
+  "name": "is-webapp",
+  "version": "1.0.0",
+  "description": "Detect if website was launched from mobile phone homescreen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanford/is-webapp.git"
+  },
+  "homepage": "https://github.com/hanford/is-webapp",
+  "bugs": {
+    "url": "https://github.com/hanford/is-webapp/issues"
+  },
+  "author": "Jack Hanford <jackhanford@gmail.com> (jackhanford.com)",
+  "scripts": {
+    "test": ""
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "homescreen",
+    "web app",
+    "app",
+    "PWA"
+  ],
+  "tags": [
+    "homescreen",
+    "web app",
+    "app",
+    "PWA"
+  ],
+  "dependencies": {
+    "global": "~4.3.2"
+  },
+  "devDependencies": {},
+  "main": "index.js"
+}
